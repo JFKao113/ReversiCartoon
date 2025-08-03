@@ -15,6 +15,6 @@ AI 隨機選擇合法步驟（初階電腦對手）
 🚀 使用方式
 下載或 clone 此專案
 
-使用瀏覽器打開reversi_game_cartoon_ver_20250803.html
+使用瀏覽器打開[https://jfkao113.github.io/ReversiCartoon/](https://jfkao113.github.io/ReversiCartoon/)
 
 開始享受與可愛動物對手的棋藝對決！
